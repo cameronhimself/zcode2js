@@ -1,0 +1,11 @@
+{
+  "name": "zcode2js",
+  "version": "0.1.0",
+  "description": "A simple converter for Zcode files to JS.",
+  "main": "zcode2js.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "J. Cameron McDonald",
+  "license": "ISC"
+}
